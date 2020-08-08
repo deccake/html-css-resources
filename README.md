@@ -32,3 +32,68 @@ Working experience with API Gateways, Proxies.
 Experience implementing API authentications using JWT, API key, and OAuth.
 Quick learner, passionate about modular, quality, and reusable code.
 Experience with GIT, AWS, CI/CD, Docker
+
+
+
+=========Resources================
+Learning resources::
+================================
+http://learn.shayhowe.com/ 
+codecademy.com html/css
+Google Web Fundamentals
+MDN Learning The Web
+
+layout::
+====================================
+box model
+http://learnlayout.com/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+Layout essentials
+
+reference::
+==================
+MDN::
+all HTML elements
+all HTML attributes
+CSS Reference
+http://caniuse.com/ 
+http://www.webplatform.org/ 
+
+css selectors::
+===============================
+http://www.w3schools.com/cssref/css_selectors.asp 
+https://css-tricks.com/how-css-selectors-work/ 
+https://docs.webplatform.org/wiki/css/selectors 
+https://docs.webplatform.org/wiki/tutorials/using_selectors 
+MDN
+
+tools::
+=================================
+testing
+Google mobile friendly test
+Google page speed
+craftsmanship
+Google webmaster guidelines
+review
+performance
+My Notes: Critical Rendering Path
+favicon
+http://realfavicongenerator.net/ 
+
+tools::
+=================================================
+http://codepen.io/ 
+emmet cheat sheet
+google fonts
+Autoprefixer
+remote debugging on android
+css lint
+JSON editor
+stats
+http://cssstats.com/ 
+
+staying current::
+=======================================
+The Web Ahead
+Rand Fishkin at Moz
+http://html5weekly.com/ (front end focus)

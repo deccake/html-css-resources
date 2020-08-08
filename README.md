@@ -1,5 +1,8 @@
 # html-css-resources
 
+a)All html shortcuts cheat sheets:
+https://docs.emmet.io/cheat-sheet/
+
 1)https://learn.shayhowe.com/
 2)codecademy.com html/css
 3)Google Web Fundamentals

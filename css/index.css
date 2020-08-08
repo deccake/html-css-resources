@@ -1,0 +1,33 @@
+/* body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 300%;
+  border: 2px solid chocolate;
+  padding: 20px;
+  margin: 50px;
+}
+p {
+  color: brown;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 160%;
+  border: 1px solid red;
+  padding: 20px;
+  margin: 30px;
+}
+
+a:link,a:visited {
+  color:white;
+  text-decoration: none;
+  background-color: #f02727cc;
+  display: inline-block;
+  text-align: center;
+  padding: 15px 20px;
+  margin: 20px;
+
+}
+a:hover,a:active{
+  background-color: red;
+} */

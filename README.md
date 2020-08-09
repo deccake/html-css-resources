@@ -15,6 +15,10 @@ https://docs.emmet.io/cheat-sheet/
 10)https://realfavicongenerator.net/
 
 
+#Git command
+git add --all //it is going to add every changes make in every folder
+git add .     //it is going to add changes make downword to folder it was present not any top changes of that folder
+git log       //it will show who has made commit details of that
 
 
 
